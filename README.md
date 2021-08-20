@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <!--
 **th0r255/th0r255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
